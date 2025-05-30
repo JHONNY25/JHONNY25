@@ -89,12 +89,6 @@
 <br/>  
 
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
 <br/>  
 
 <div align="center"></div>
